@@ -65,6 +65,8 @@ CORS_ALLOWED_ORIGINS = [
 "http://localhost:5173",
 "http://localhost:5174",
 "http://localhost:5175",
+"https://myshoppit-app-vnk9.onrender.com/",
+"https://zero01-react-django-fullstack.onrender.com/",
 
 ]
 
